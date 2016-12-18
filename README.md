@@ -2,4 +2,4 @@
 
 [nanlulu.xyz](http://nanlulu.xyz)
 
-Powered by [Hexo](http://hexo.io).
+Adapted from [HTML5UP Multiverse](https://html5up.net/multiverse).
